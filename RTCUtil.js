@@ -4,7 +4,7 @@ const DEFAULT_AUDIO_CONSTRAINTS = {};
 
 const DEFAULT_VIDEO_CONSTRAINTS = {
     facingMode: 'user',
-    frameRate: 30,
+    frameRate: 15,
     height: 720,
     width: 1280
 };
